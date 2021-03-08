@@ -36,3 +36,16 @@ Practice questions for the Azure AI-900 Exam that helped me pass first time.
   <summary>Show Answer</summary>
   <p>Q&A Maker</p>
 </details>
+
+
+<h5>4. Which is not one of the resources that can be created using Azure Machine Learning Studio?</h5>
+<ol type="a">
+  <li>Compute Instances</li>
+  <li>Compute Balancers</li>
+  <li>Compute Clusters</li>
+  <li>Inference Clusters</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Compute Balancers</p>
+</details>
