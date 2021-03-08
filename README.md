@@ -37,7 +37,6 @@ Practice questions for the Azure AI-900 Exam that helped me pass first time.
   <p>Q&A Maker</p>
 </details>
 
-
 <h5>4. Which is not one of the resources that can be created using Azure Machine Learning Studio?</h5>
 <ol type="a">
   <li>Compute Instances</li>
@@ -48,4 +47,28 @@ Practice questions for the Azure AI-900 Exam that helped me pass first time.
 <details>
   <summary>Show Answer</summary>
   <p>Compute Balancers</p>
+</details>
+
+<h5>5. Which would be used to predict the category an item belongs to?</h5>
+<ol type="a">
+  <li>Classification</li>
+  <li>K-means</li>
+  <li>Clustering</li>
+  <li>Neural Network</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Classification</p>
+</details>
+
+<h5>6. Which technique is used to group similar entities based on features?</h5>
+<ol type="a">
+  <li>Classification</li>
+  <li>K-means</li>
+  <li>Clustering</li>
+  <li>Neural Network</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Clustering</p>
 </details>
