@@ -24,3 +24,15 @@ Practice questions for the Azure AI-900 Exam that helped me pass first time.
   <summary>Show Answer</summary>
   <p>Optical Character Recognition</p>
 </details>
+
+<h5>3. Which of these can be used to create conversational AI?</h5>
+<ol type="a">
+  <li>Q&A Maker</li>
+  <li>Semantic Segmentation</li>
+  <li>Azure Speech Maker</li>
+  <li>Azure Chat Functions</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Q&A Maker</p>
+</details>
