@@ -81,3 +81,51 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <summary>Show Answer</summary>
   <p>Clustering</p>
 </details>
+
+<h5>7. What are the resource types available as Computer Vision service?</h5>
+<ol type="a">
+  <li>Computer Vision and Computer Cluster</li>
+  <li>Computer Key and Computer Endpoint</li>
+  <li>Computer Vision and Computer Services</li>
+  <li>Computer Insights and Computer Services</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Computer Vision and Computer Services</p>
+</details>
+
+<h5>8. What are the two specialised domain models of Computer Vision?</h5>
+<ol type="a">
+  <li>Stars and Places</li>
+  <li>Marker and People</li>
+  <li>Background and Landmarks</li>
+  <li>Celebrities and Landmarks</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Celebrities and Landmarks</p>
+</details>
+
+<h5>9. Which of these metrics is not used when model training in Custom Vision?</h5>
+<ol type="a">
+  <li>Precision</li>
+  <li>Recall</li>
+  <li>Mean Average Precision</li>
+  <li>F1 Score</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>F1 Score</p>
+</details>
+
+<h5>10. Which is not a supported image format in the Face Service?</h5>
+<ol type="a">
+  <li>JPEG</li>
+  <li>AI</li>
+  <li>PNG</li>
+  <li>BMP</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>AI (.ai)</p>
+</details>
