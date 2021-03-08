@@ -1,5 +1,14 @@
-# Azure AI-900 Practice
-Practice questions for the Azure AI-900 Exam that helped me pass first time.
+![AI-900 Banner](https://i.imgur.com/iM3VRJQ.png)
+
+# Purpose
+I created this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is rather simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Practice questions for the Azure AI-900 Exam that helped me pass first time.
+
+Official Website: [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
+
+Certification (after passing this exam): [Microsoft Certified: Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)
+
+# Practice Questions
+__Disclaimer:__ These practice questions are very similar to the actual exam questions in style and skill level; yet are only indicative and by no means a comprehensive list of questions. Questions have not been transcribed from the real exam, which is against exam policy.
 
 <h5>1. In this computer vision task, individual pixels in an image are classified according to the object to which they belong.</h5>
 <ol type="a">
