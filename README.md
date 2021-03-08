@@ -129,3 +129,63 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <summary>Show Answer</summary>
   <p>AI (.ai)</p>
 </details>
+
+<h5>11. The OCR API returns hierachical information consisting of all of the following, except:</h5>
+<ol type="a">
+  <li>Regions</li>
+  <li>Areas</li>
+  <li>Lines</li>
+  <li>Words</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Areas</p>
+</details>
+
+<h5>12. Translation Text uses which model for translation?</h5>
+<ol type="a">
+  <li>Neural Network</li>
+  <li>SVM</li>
+  <li>Cognitive Text</li>
+  <li>Neural Machine Translation</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Neural Machine Translation</p>
+</details>
+
+<h5>13. Which is not an entity type of LUIS application intents?</h5>
+<ol type="a">
+  <li>List</li>
+  <li>RegEx</li>
+  <li>Filter</li>
+  <li>Machine-Learned</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Filter</p>
+</details>
+
+<h5>14. Which is not a machine learning algorithm category?</h5>
+<ol type="a">
+  <li>Classification</li>
+  <li>Regression</li>
+  <li>Normalization</li>
+  <li>Clustering</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Normalization</p>
+</details>
+
+<h5>15. Which is a multiclass classification algorithm?</h5>
+<ol type="a">
+  <li>Decision Forest</li>
+  <li>K-means</li>
+  <li>K-nearest Neighbor</li>
+  <li>Anomaly Detection</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Decision Forest</p>
+</details>
