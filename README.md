@@ -3,9 +3,9 @@
 # Purpose
 I created this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is rather simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification](https://www.youracclaim.com/badges/2384abe2-4840-4c94-86e8-c7ffc2688155)
 
-Official Website: [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
+__Official Website:__ [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
-Certification (after passing this exam): [Microsoft Certified: Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)
+__Certification (after passing this exam):__ [Microsoft Certified: Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)
 
 # Practice Questions
 __Disclaimer:__ These practice questions are very similar to the actual exam questions in style and skill level; yet are only indicative and by no means a comprehensive list of questions. Questions have not been transcribed from the real exam, which is against exam policy.
