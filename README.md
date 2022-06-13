@@ -345,3 +345,15 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <summary>Show Answer</summary>
   <p>Tagging Images</p>
 </details>
+
+<h5>29. According to which principle of responsible AI should AI solutions empower everyone and engage people?</h5>
+<ol type="a">
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+  <li>Accountability</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Inclusiveness</p>
+</details>
